@@ -9,3 +9,6 @@
 #### Soft Skills:
 * Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity (Kim Scott)
 * Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! (Robert T. Kiyosaki)
+
+#### Novels:
+* The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win (Gene Kim, George Spafford, and Kevin Behr)
