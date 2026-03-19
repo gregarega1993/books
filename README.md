@@ -8,6 +8,8 @@
 * The Pragmatic Programmer (David Thomas, Andrew Hunt)
 * Mastering React Test-Driven Development (Daniel Irvine)
 * Design Patterns. Elements of Reusable Object-Oriented Software (Erich Gamma, Richard Helm, Ralph E. Johnson, John Vlissides)
+* Let's Go! (Alex Edwards)
+* Let's Go Further (Alex Edwards)
 
 #### Soft Skills:
 * Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity (Kim Scott)
